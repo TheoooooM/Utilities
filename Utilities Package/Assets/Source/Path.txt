@@ -1,1 +1,1 @@
-https://github.com/TheoooooM/Utilities.git?Path=/UtilitiesPackage/Assets/Source
+https://github.com/TheoooooM/Utilities.git?path=/Utilities%20Package/Assets/Source

@@ -1,6 +1,6 @@
 ﻿{
   "name": "com.tmarcuzzi.utilities",
-  "version": "0.0.22",
+  "version": "0.0.444",
   "displayName": "Utilities",
   "description": "Collection of utility functions to be used in Unity.",
   "unity": "2021.3",
